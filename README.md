@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Cas-Romero/Cas-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DCFFF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Cas.;AI+Enthusiast;Welcome+to+my+GitHub+space." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cas-Romero&style=flat-square&color=7dcfff" alt="Profile views"/> </p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-333366?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-005F73?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cas-Romero&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7DCFFF&text_color=94A3B8&icon_color=7DCFFF" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cas-Romero&hide_border=true&background=0D1117&stroke=7DCFFF&ring=7DCFFF&fire=7DCFFF&currStreakLabel=7DCFFF" width="48%" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cas-Romero&bg_color=0d1117&color=7DCFFF&line=7DCFFF&point=38BDF8&days=20&area=true&hide_title=true&hide_border=true" /> </p>
