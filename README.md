@@ -7,9 +7,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cas-Romero&style=flat-square&color=7dcfff" alt="Profile views"/> </p> 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-333366?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-005F73?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,py,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
+  </a>
 </p>
 
 ---
